@@ -4,10 +4,8 @@
      width='100%'
      height='auto'/>
 
-A little about me... 
+I'm currently enrolled in full-stack web development boot camp at James McKelvey School of Engineering at Washington University.  Having fun learning ALL OF THE THINGS, including HTML, CSS, JavaScript, jQuery, C#, ASP.net, Python, Django, Java, PHP, Laravel, APIs, Node, terminal commands, DOM manipulation, consuming RESTful, parsing JSON, AJAX and the beauty of debugging...  I LOVE how it feels to create with code.  I'm looking forward to using my newfound skills to build fun solutions for my clients!
 
-:point_right: Enrolled in full-stack web development bootcamp through James McKelvey School of Engineering at Washington University
+:space_invader:  [e-mail](d.stout31@yahoo.com)
 
-:point_right: In this program, I'm learning HTML, CSS, JavaScript, jQuery, C#, ASP.net, Python, Django, Java, PHP, Laravel, APIs, Node, terminal commands, DOM manipulation, consuming RESTful, parsing JSON, AJAX and the beauty of debugging...  
-
-:point_right: I LOVE how it feels to create with code and I'm looking forward to using my newfound skills to build apps/products/solutions for my clients! 
+:space_invader:  [Linkedin](www.linkedin.com/in/)
