@@ -9,3 +9,5 @@ I'm currently enrolled in full-stack web development boot camp at James McKelvey
 :space_invader: Let's connect via [Linkedin](https://www.linkedin.com/in/desiree-s-1381351ba/)
 
 :space_invader: Contact me at d.stout31@yahoo.com
+
+:space_invader: Checkout my portfolio [Look what I can do!](https://descoding.github.io/PortfolioDeDes/)
